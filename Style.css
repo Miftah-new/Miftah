@@ -1,0 +1,43 @@
+body {
+  background-color:lightgreen;
+}
+
+#home{
+     padding-top:5rem;
+     scroll-margin-top: 180px;
+}
+
+#about{
+     scroll-margin-top: 180px;
+}
+
+#galery{
+     scroll-margin-top: 180px;
+}
+
+.card-img-top {
+     height:550px;
+     object-fit: cover;
+}
+
+#skill{
+     scroll-margin-top: 180px;
+}
+
+.skill-box{
+     border: 10px solid #000000;
+     border-radius: 80px;
+     padding: 3rem;
+}
+
+.softskill{
+     padding-bottom: 2rem;
+}
+
+#contact{
+     scrool-margin-top: 80px;
+}
+
+html{
+     scroll-behavior: smooth;
+}
